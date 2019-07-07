@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/Baobei/Developmen/flutter
-FLUTTER_APPLICATION_PATH=/Users/baobei/Desktop/Flutter/flutter_complete_guide
-FLUTTER_TARGET=/Users/baobei/Desktop/Flutter/flutter_complete_guide/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/baobei/Desktop/Flutter/flutter_app1
+FLUTTER_TARGET=/Users/baobei/Desktop/Flutter/flutter_app1/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/Baobei/Developmen/flutter/bin/cache/artifacts/engine/ios
